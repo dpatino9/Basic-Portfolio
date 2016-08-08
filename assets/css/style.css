@@ -2,26 +2,78 @@
 <style>
 
 head {
-	font-style: 'Georgia', 'Times', 'Times New Roman', 'serif';
-	font-size: ;
-	text-align: ;
 	background-color: `#ffffff`;
+}
+header {
 
+}
+.navBar {
+	text-align: right;
+	padding: 20px;
+	margin-right: 15%;
+	float: right;
+}
+section {
+	padding:;
+}
+body {
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+
+}
+.left {
+	margin-top: 0;
+	margin-left: 10%;
+	margin-right: 0;
+	border-style: solid;
+	height: 450px;
+	width: 550px;
+	float: left;
+	padding: 20px;
+}
+.right {
+	float: right;
+	border-style: solid;
+	height: 150px;
+	width: 250px;
+	margin-right: 100px;
+	padding: 5px;
+	text-align: center
+	
+}
+
+#Name {
+	background-color: #4aaaa5;
+	padding: 20px;
+	color: white;
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	margin-left: 10%;
+	display: inline-block;
 }
 #ProfilePicture {
-	height: 180px;
-	width: 180px;
-
-}
-#Profile {
-
+	height: 150px;
+	width: 190px;
+	
+	
 }
 
-
-h1 {
+p {
+	
+}
+aside {
+	
 
 }
 
-img {
+#Icons img {
+	width: 60px;
+
+}
+
+
+.footer {
+	text-align: center;
+	background-color: #666666;
+	clear: both;
+
 
 }
