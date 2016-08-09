@@ -18,11 +18,12 @@ h2 {
 	font-weight: lighter;  
 	text-align: center;
 	padding: 20px;
-	margin-right: 15% ;
+	margin-right: 17% ;
 	margin-top: 25px;
 	float: right;
 	height: auto;
 	border-style: ;
+	font-size: 14px;
 
 }
 section {
@@ -37,6 +38,8 @@ body {
 
 	overflow:;
 }
+
+	
 .left {
 	margin-top: 20px;
 	margin-left: 10%;
@@ -58,14 +61,21 @@ body {
 	border-style: solid;
 	height: 150px;
 	width: 250px;
-	margin-right: 100px;
+	margin-right: 15%;
 	margin-top: 20px;
-	padding: 5px;
+	padding: 10px;
 	text-align: center
 	
 	
 }
+.right hr {
+	width: 176px;
+}
+.right h1 {
+	width: auto;
 
+
+}
 #Name {
 	background-color: #4aaaa5;
 	padding: 20px;
@@ -79,6 +89,8 @@ body {
 	width: 220px;
 	float: left;
 	display: inline-block;
+	padding-right: 20px;
+	padding-top: 20px;
 	
 }
 
