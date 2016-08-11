@@ -36,14 +36,14 @@ a {
 section {
 	padding:;
 	border-top-color: silver;
-	border-top-style: solid;
+	border-top-style: solid;	
 	
 }
+
 body {
 	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
 	background-image: url("../images/sayagata.png");
-
-	overflow:;
+	
 }
 
 	
@@ -122,14 +122,11 @@ footer {
 	border-top-color: #4aaaa5;
 	border-top-style: solid;
 	clear: both;
-	height: auto;
-	width: auto;
+	height: 50px;
 	padding: 20px;
 	color: white;
 	font-size: 12px;
+
 	
-
-
-
-
 }
+
